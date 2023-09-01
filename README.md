@@ -5,7 +5,13 @@
     Oi! sou o
     <a>Pedrinho 😁</a>
   </h1>
-  
+<div>
+  <h1 align="center">
+    Meu professor é o Fernado
+  <a href=https://github.com/FernandoZanescoBoeira>
+  </h1>
+  </div>
+
   <p align="center">
     Obrigado por visitar meu perfil
   </p>
@@ -15,6 +21,7 @@
   <p align="center">
   •🌱 Apendendo CSS
   </p>
+
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrinho-2006&show_icons=true&theme=gruvbox)
