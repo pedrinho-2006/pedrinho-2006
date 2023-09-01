@@ -5,12 +5,6 @@
     Oi! sou o
     <a>Pedrinho 😁</a>
   </h1>
-
-
-  <h1 align="center">
-    Meu professor de Programação
-    [<a>https://github.com/FernandoZanescoBoeira/HelenaKolody2C)</a>]
-  </h1>
   
   <p align="center">
     Obrigado por visitar meu perfil
